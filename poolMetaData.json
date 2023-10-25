@@ -2,6 +2,6 @@
 "name": "NodeEmpire Preview",
 "description": "EMPIR Cardano Stake Pool, EMPIRE World Mobile EarthNodes",
 "ticker": "EMPIR",
-"homepage": "https://nodeempire.io",
+"homepage": "http://nodeempire.io",
 "extended": "https://raw.githubusercontent.com/NodeEmpire/nodeempire.github.io/main/meta.json"
 }
